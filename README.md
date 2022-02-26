@@ -306,10 +306,11 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 
 
  [![100][100]](youtube.com#gh-light-mode-only)
+ [![3][3]](youtube.com#gh-light-mode-only)
 
 [0]: https://img.icons8.com/color/15/000000/delete-sign--v1.png "Não"
 [2]: https://img.icons8.com/color/15/000000/geography--v1.png
-[3]: https://img.icons8.com/color/15/000000/linkedin.png#gh-light-mode-only
+[3]: https://img.icons8.com/color/15/000000/linkedin.png
 [10]: https://img.icons8.com/color/15/000000/javascript--v2.png "Javascript"
 [11]: https://img.icons8.com/color/15/000000/nodejs.png "NodeJS"
 [12]: https://img.icons8.com/color/15/000000/amazon-web-services.png "AWS"
