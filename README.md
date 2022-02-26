@@ -87,10 +87,9 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ##  E
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	|  [Topo](#indice)  	|
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|-----:	|
+|Erick Wendel | [![2][2]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkedin.com/in/erickwendel/) | [![2][2]](https://cursos.erickwendel.com.br) | | ![10][10] ![11][11] ![12][12]	| ![0][0]	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
+|      	|         	|          	|      	|            	|             	|        	|     	|
 
 <br>
 
@@ -217,7 +216,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## R
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	|  [Topo](#indice)  	|
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Rodrigo Branas	| [Link](https://www.youtube.com/c/RodrigoBranas)	| [Link](https://www.linkedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -304,3 +303,16 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 
 <br>
 
+
+
+ [![100][100]](youtube.com#gh-light-mode-only)
+
+[0]: https://img.icons8.com/color/15/000000/delete-sign--v1.png "Não"
+[2]: https://img.icons8.com/color/15/000000/geography--v1.png
+[3]: https://img.icons8.com/color/15/000000/linkedin.png#gh-light-mode-only
+[10]: https://img.icons8.com/color/15/000000/javascript--v2.png "Javascript"
+[11]: https://img.icons8.com/color/15/000000/nodejs.png "NodeJS"
+[12]: https://img.icons8.com/color/15/000000/amazon-web-services.png "AWS"
+
+
+[100]: https://img.icons8.com/ios/48/000000/linkedin.png#gh-dark-mode-only
