@@ -216,7 +216,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## R
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	|  [Topo](#indice)  	|
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|-----:	|
-| Rodrigo Branas	| [Link](https://www.youtube.com/c/RodrigoBranas)	| [Link](https://www.linkedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	|            	|             	|        	|      	|
+| Rodrigo Branas	| [![13asdasdf][13]](https://www.youtube.com/c/RodrigoBranas)	| [Link](https://www.linkedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -309,4 +309,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [10]: https://img.icons8.com/color/15/000000/javascript--v2.png "Javascript"
 [11]: https://img.icons8.com/color/15/000000/nodejs.png "NodeJS"
 [12]: https://img.icons8.com/color/15/000000/amazon-web-services.png "AWS"
+[13]: https://img.icons8.com/color/48/000000/youtube-play.png 
 [100]: https://img.icons8.com/ios/48/000000/linkedin.png
