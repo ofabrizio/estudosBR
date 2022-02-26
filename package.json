@@ -1,0 +1,25 @@
+{
+  "name": "estudosbr",
+  "version": "1.0.0",
+  "description": "des",
+  "keywords": [
+    "estudo",
+    "programamação",
+    "desenvolvimento",
+    "cursos",
+    "autores"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofabrizio/estudosBR.git"
+  },
+  "author": "Fabrizio Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofabrizio/estudosBR/issues"
+  },
+  "homepage": "https://github.com/ofabrizio/estudosBR#readme",
+  "contributors": [
+    "Fabrizio Andre"
+  ]
+}
