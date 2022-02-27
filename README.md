@@ -36,246 +36,246 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |    [X](#x)    	|    [Y](#y)    	|    [Z](#z)    	|
 
 
-## 0-9[Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
+## 0-9 
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? | [Topo](#indice) |
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|:-----:	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## A [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## B [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## A
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## C [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
+## B
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## D [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
+## C
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-##  E [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | 14 a 21 de Março de 2022 [![2]](https://lp.javascriptexpert.com.br/lc-jse-mar22-inscricao) |
+## D
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+##  E
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkeww.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | 14 a 21 de Março de 2022 [![2]](https://lp.javascriptexpert.com.br/lc-jse-mar22-inscricao) |
 | Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]
 |      	|         	|          	|      	|            	|             	|        	|     	|
 
 <br>
 
-## F [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## G [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Glaucia Lemos	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | [![3]](https://www.linkedin.com/in/glaucialemos/) | [![2]](https://glaucialemos.netlify.app/)	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | ![11] ![14] ![15] ![16] ![17] ![18]	| ![0] 	| ![0] 	|
+## F
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	| 
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## H [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## I [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## G
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Glaucia Lemos	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | [![3]](https://wttps://www.linkedin.com/in/glaucialemos/) | [![2]](https://glaucialemos.netlify.app/)	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | ![11] ![14] ![15] ![16] ![17] ![18]	| ![0] 	| ![0] 	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## J [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Jamilton Damasceno | [![13]](https://www.youtube.com/jamiltondamasceno)| [![3]](https://www.linkedin.com/in/jamiltondamasceno/)	| [![2]](http://jamiltondamasceno.com.br/)	| [![2]](https://www.udemy.com/user/jamiltondamasceno/) | ![10] ![25] ![26] ![30] ![32] ![33] ![34] ![35] ![36] ![37] | ![0] 	| ![0] 	|
+## H
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## I
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## J
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Jamilton Damasceno | [![13]](https://www.youtube.com/jamiltondamasceno)| [![3]](https://www.linkedinlinkedin.com/in/jamiltondamasceno/)	| [![2]](http://jamiltondamasceno.com.br/)	| [![2]](https://www.udemy.com/user/jamiltondamasceno/) | ![10] ![25] ![26] ![30] ![32] ![33] ![34] ![35] ![36] ![37] | ![0] 	| ![0] 	|
 | Jacob Moura | [![2]](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) | [![3]](https://www.linkedin.com/in/jacob-moura/)| [![2]](https://flutterando.com.br/) | [![2]]((https://masterclass.flutterando.com.br/public/products)) | ![25] ![38] 	| ![0] 	| ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-### K [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+### K
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## L [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	<img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
+## L
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	<img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | ![0] | ![0] 	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## M [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## N [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## M
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## O [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## P [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## N
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## Q [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## O
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## R [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Rodrigo Branas	| [![13]](https://www.youtube.com/c/RodrigoBranas)	| [![3]](https://www.linkedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	| [![2][2]](https://app.branas.io/public/products) |  ![10] ![11] ![15] ![16] 	| ![0] | ![0] |
+## P
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## Q
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## R
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Rodrigo Branas	| [![13]](https://www.youtube.com/c/RodrigoBranas)	| [![3]](https://www.linkedin.cokedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	| [![2][2]](https://app.branas.io/public/products) |  ![10] ![11] ![15] ![16] 	| ![0] | ![0] |
 | Rodrigo Rahman	| [![2]](https://www.youtube.com/c/RodrigoRahman) | [![3]](https://www.linkedin.com/in/rodrigo-rahman/) | [![3]](http://academiadoflutter.com.br/) | [![3]](http://academiadoflutter.com.br/) | ![25] ![30] | ![0]	| ![0]	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## S [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## T [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## S
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## U [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## V [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## T
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## W [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
+## U
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## X [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
-
-<br>
-
-## Y [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+## V
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
 
-## Z [Topo](#indice)
-| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
-|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
+## W
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## X
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## Y
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|
+
+<br>
+
+## Z 
+| Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? | [Topo](#indice) |
+|------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 
 <br>
 
