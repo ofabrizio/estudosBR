@@ -36,7 +36,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |    [X](#x)    	|    [Y](#y)    	|    [Z](#z)    	|
 
 
-## 0-9 [Topo](#indice)
+## 0-9[Topo](#indice)
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
@@ -75,7 +75,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## D [Topo](#indice)
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -84,7 +84,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ##  E [Topo](#indice)
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-|Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | ![0]
+|Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | 14 a 21 de Março de 2022 [![2]](https://lp.javascriptexpert.com.br/lc-jse-mar22-inscricao) |
 | Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]
 |      	|         	|          	|      	|            	|             	|        	|     	|
 
@@ -246,7 +246,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## W [Topo](#indice)
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	|
-| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> ![24] | ![0] | ![0] |
+| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -279,8 +279,6 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 
 <br>
 
- <img src="" width="15px">
-
 [0]: https://img.icons8.com/color/15/000000/delete-sign--v1.png "Não"
 [2]: https://img.icons8.com/color/15/000000/geography--v1.png
 [3]: https://img.icons8.com/color/15/000000/linkedin.png "Linkedin"
@@ -303,7 +301,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [26]: https://img.icons8.com/color/15/000000/python--v1.png "Python"
 [27]: https://img.icons8.com/color/15/000000/python--v1.png "C++"
 [28]: https://img.icons8.com/color/15/000000/java-coffee-cup-logo--v1.png "Java"
-[29]: https://img.icons8.com/color/15/000000/database.png "Database"
+[29]: https://img.icons8.com/color/15/000000/database.png "Banco de dados"
 [30]: https://img.icons8.com/color/15/000000/php.png "PHP"
 [31]: https://img.icons8.com/color/15/000000/graphql.png "GraphQL"
 [32]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
@@ -313,8 +311,3 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [36]: https://img.icons8.com/color/15/000000/android-os.png "Android"
 [37]: https://img.icons8.com/color/15/000000/figma--v1.png "Figma"
 [38]: https://img.icons8.com/color/15/000000/dart.png "Dart"
-
-
-17
-23
-28
