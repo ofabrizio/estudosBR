@@ -8,10 +8,9 @@ Este repo será construído para ajudar a divulgar nomes de autores brasileiros 
 
 Se tiver interesse em contribuir, peço que verifique se o canal que está recomendando já não está presente na lista. Se não estiver, abra uma issue ou envie um PR com o seguinte template
 
- |  Nome 	|   Youtube	|  Linkedin 	|  Site 	|  Tem curso?  	|  Tecnologias 	|   Livros	|
+ | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? 
 
- Pode ser um ítem por linha, por facilidade de entendimento.
-
+ Pode ser um ítem por linha, para facilitar entendimento.
 
  # Agradecimentos
 
@@ -57,17 +56,21 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## B
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| birobirobiro | [![13]](https://www.youtube.com/c/birobirobiro/) | [![3]](https://www.linkedin.com/in/birobirobiro/) | [![2]](https://birobirobiro.dev/) | ![0] | ![37] ![39] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> |![0]|![0]|      	|
+|Bruno Braga|[![13]](https://www.youtube.com/channel/UCkwwsZDpcMxftRkDGql5xbw/)| [![3]](https://www.linkedin.com/in/bruno-braga-6a6b5632/) | ![0] | ![0] | ![11] ![16] | ![0]	| ![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+
+
+
 
 <br>
 
 ## C
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| CodarMe | [![13]](https://www.youtube.com/c/CodarMe/) | [![3]](https://www.linkedin.com/company/codarme/) | [![2]](https://codar.me/) | [![2]](https://codar.me/) | ![10] ![11] ![20] ![26] ![39] ![40] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
+| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
+| Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] <img src="https://brandeps.com/icon-download/L/Laravel-icon-vector-04.svg" width="15px"> | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -75,8 +78,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## D
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
+| DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -147,7 +150,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## L
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	<img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
+| Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	![39] | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | ![0] | ![0] 	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -156,7 +159,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## M
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -228,7 +231,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## U
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Um Inventor Qualquer | [![13]](https://www.youtube.com/c/UmInventorQualquer) | [![3]](https://www.linkedin.com/company/um-inventor-qualquer/) | [![2]](https://www.uminventorqualquer.com.br/) | ![0] | ![11] ![12] ![29] ![41] | ![0] |![0]|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -246,8 +249,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## W
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" width="15px"> ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> ![39] ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
+| Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -311,3 +314,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [36]: https://img.icons8.com/color/15/000000/android-os.png "Android"
 [37]: https://img.icons8.com/color/15/000000/figma--v1.png "Figma"
 [38]: https://img.icons8.com/color/15/000000/dart.png "Dart"
+[39]: https://img.icons8.com/color/15/000000/react-native.png "React"
+[40]: https://img.icons8.com/color/15/000000/react-native.png "React Native"
+[41]: https://img.icons8.com/color/15/000000/github--v1.png "Github"
+[42]: https://img.icons8.com/color/15/000000/firebase.png "Firebase"
