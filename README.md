@@ -163,7 +163,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![11] ![37] ![39] |             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
-<br>
+``<br>
 
 ## N
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
@@ -177,7 +177,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## O
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| 
+One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://www.linkedin.com/company/onebitcode/) | [![2]](https://beacons.page/onebitcode) |  [![2]](https://beacons.page/onebitcode) | ![10] ![11] ![16] ![29] ![39] | [![2]](https://programadornomade.onebitcode.com/) | ![0]|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -325,3 +326,6 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [46]: https://img.icons8.com/color/15/000000/css3.png "CSS3"
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
+[49]: https://img.icons8.com/color/48/000000/mongodb.png "MongoDB"
+
+
