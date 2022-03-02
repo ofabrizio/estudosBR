@@ -160,7 +160,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![11] ![37] ![39] |             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -320,5 +320,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [41]: https://img.icons8.com/color/15/000000/github--v1.png "Github"
 [42]: https://img.icons8.com/color/15/000000/firebase.png "Firebase"
 [43]: https://img.icons8.com/color/15/000000/terraform.png "Terraform"
-[44]: https://img.icons8.com/color/48/000000/terraform.png "Ansible"
-[45]: https://img.icons8.com/color/48/000000/redux.png "Redux"
+[44]: https://img.icons8.com/color/15/000000/terraform.png "Ansible"
+[45]: https://img.icons8.com/color/15/000000/redux.png "Redux"
+[46]: https://img.icons8.com/color/15/000000/css3.png "CSS3"
+[47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
+[48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
