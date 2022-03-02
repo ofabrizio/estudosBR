@@ -47,7 +47,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## A
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Aprenda Golang | [![13]](https://www.youtube.com/c/AprendaGolang/) | ![0] | [![2]](https://aprendagolang.com.br/) | [![2]](https://tiago-temporin.notion.site/Go-101-1fe9cef0ccc94ed3bed7f38e7dd5815d) | ![19] | ![0] |![0]|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -251,6 +251,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> ![39] ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 | Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
+| Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -320,4 +321,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [42]: https://img.icons8.com/color/15/000000/firebase.png "Firebase"
 [43]: https://img.icons8.com/color/15/000000/terraform.png "Terraform"
 [44]: https://img.icons8.com/color/48/000000/terraform.png "Ansible"
-
+[45]: https://img.icons8.com/color/48/000000/redux.png "Redux"
