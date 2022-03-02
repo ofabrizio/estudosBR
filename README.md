@@ -96,7 +96,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## F
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	| 
+| Fala, Coders! | [![13]](https://www.youtube.com/c/SevenCoders/) | ![0] | ![0] | ![0] |![10] ![39] ![40] |![0] |![0] | 
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -213,7 +213,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## S
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+|souzaxx| [![13]](https://www.youtube.com/c/souzaxx/) | [![3]](https://www.linkedin.com/in/ldsouza1220/) | ![0] | ![0] | ![43] ![44] ![] | [![13]]() | [![13]]() |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -318,3 +318,6 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [40]: https://img.icons8.com/color/15/000000/react-native.png "React Native"
 [41]: https://img.icons8.com/color/15/000000/github--v1.png "Github"
 [42]: https://img.icons8.com/color/15/000000/firebase.png "Firebase"
+[43]: https://img.icons8.com/color/15/000000/terraform.png "Terraform"
+[44]: https://img.icons8.com/color/48/000000/terraform.png "Ansible"
+
