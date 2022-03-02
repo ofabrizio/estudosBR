@@ -216,7 +216,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 |souzaxx| [![13]](https://www.youtube.com/c/souzaxx/) | [![3]](https://www.linkedin.com/in/ldsouza1220/) | ![0] | ![0] | ![43] ![44] ![] | [![13]]() | [![13]]() |      	|
-| Sujeito programador | [![13]](https://www.youtube.com/c/Sujeitoprogramador) | [![3]](https://www.linkedin.com/company/sujeitoprogramador/) | [![2]](https://sujeitoprogramador.com/) | [![2]](https://sujeitoprogramador.com/fabricadeaplicativos/) [![2]](https://sujeitoprogramador.com/designinterfaces/) [![2]](https://sujeitoprogramador.com/fullstackpro/)  [![2]](https://www.udemy.com/user/matheus-fraga-2/) | ![10] ![11] ![29] ![39] ![40] ![42] ![45] ![46] | ![0] | ![0] |
+| Sujeito programador | [![13]](https://www.youtube.com/c/Sujeitoprogramador) | [![3]](https://www.linkedin.com/company/sujeitoprogramador/) | [![2]](https://sujeitoprogramador.com/) | [![2]](https://sujeitoprogramador.com/fabricadeaplicativos/) [![2]](https://sujeitoprogramador.com/designinterfaces/) [![2]](https://sujeitoprogramador.com/fullstackpro/)  [![2]](https://www.udemy.com/user/matheus-fraga-2/) | ![10] ![11] ![29] ![39] ![40] ![42] ![45] ![46] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
