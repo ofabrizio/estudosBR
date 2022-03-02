@@ -134,6 +134,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Jamilton Damasceno | [![13]](https://www.youtube.com/jamiltondamasceno)| [![3]](https://www.linkedinlinkedin.com/in/jamiltondamasceno/)	| [![2]](http://jamiltondamasceno.com.br/)	| [![2]](https://www.udemy.com/user/jamiltondamasceno/) | ![10] ![25] ![26] ![30] ![32] ![33] ![34] ![35] ![36] ![37] | ![0] 	| ![0] 	|
 | Jacob Moura | [![2]](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) | [![3]](https://www.linkedin.com/in/jacob-moura/)| [![2]](https://flutterando.com.br/) | [![2]]((https://masterclass.flutterando.com.br/public/products)) | ![25] ![38] 	| ![0] 	| ![0] |
+| Jovem Programador | [![13]](https://www.youtube.com/c/JovemProgramadortv/) | ![0] | ![0] | ![0] | ![10] ![11] ![39] | ![0]	| ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -327,5 +328,4 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [49]: https://img.icons8.com/color/48/000000/mongodb.png "MongoDB"
-
 
