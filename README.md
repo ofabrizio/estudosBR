@@ -216,7 +216,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 |souzaxx| [![13]](https://www.youtube.com/c/souzaxx/) | [![3]](https://www.linkedin.com/in/ldsouza1220/) | ![0] | ![0] | ![43] ![44] ![] | [![13]]() | [![13]]() |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Sujeito programador | [![13]](https://www.youtube.com/c/Sujeitoprogramador) | [![3]](https://www.linkedin.com/company/sujeitoprogramador/) | [![2]](https://sujeitoprogramador.com/) | [![2]](https://sujeitoprogramador.com/fabricadeaplicativos/) [![2]](https://sujeitoprogramador.com/designinterfaces/) [![2]](https://sujeitoprogramador.com/fullstackpro/)  [![2]](https://www.udemy.com/user/matheus-fraga-2/) | ![10] ![11] ![29] ![39] ![40] ![42] ![45] ![46] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -302,7 +302,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [21]: https://img.icons8.com/color/15/000000/grafana.png "Grafana"
 [22]: https://img.icons8.com/color/15/000000/kubernetes.png "Kubernetes"
 [23]: https://img.icons8.com/color/15/000000/spring-logo.png "SpringBoot"
-[24]: https://img.icons8.com/color/15/000000/infinity.png "Infinite"
+[24]: https://img.icons8.com/color/48/000000/plus--v1.png "Várias outras"
 [25]: https://img.icons8.com/color/15/000000/flutter.png "Flutter"
 [26]: https://img.icons8.com/color/15/000000/python--v1.png "Python"
 [27]: https://img.icons8.com/color/15/000000/python--v1.png "C++"
@@ -328,4 +328,5 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [49]: https://img.icons8.com/color/48/000000/mongodb.png "MongoDB"
+
 
