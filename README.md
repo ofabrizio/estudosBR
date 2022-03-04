@@ -80,6 +80,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
+| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/ |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] | ![0]|        	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -329,5 +330,6 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [49]: https://img.icons8.com/color/15/000000/mongodb.png "MongoDB"
-
+[50]: https://img.icons8.com/color/15/000000/ruby-programming-language.png "Ruby"
+[51]: https://img.icons8.com/color/15/000000/vue-js.png "Vue"
 
