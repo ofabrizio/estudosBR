@@ -71,6 +71,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | CodarMe | [![13]](https://www.youtube.com/c/CodarMe/) | [![3]](https://www.linkedin.com/company/codarme/) | [![2]](https://codar.me/) | [![2]](https://codar.me/) | ![10] ![11] ![20] ![26] ![39] ![40] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
 | Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
 | Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] ![54] | ![0] | ![0] |
+| Cursos de programação | [![13]](https://www.youtube.com/c/CursoPrograma%C3%A7%C3%A3o/) | ![0] |![0] |  ![0]| ![10] ![16] ![18] ![19] ![26] ![27] ![28] ![29] ![30] ![34] ![46] ![50] ![55] ![56] ![24] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -80,7 +81,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
-| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] | ![0]| ![0]|
+| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] ![24] | ![0]| ![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -299,7 +300,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [15]: https://img.icons8.com/color/15/000000/vue-js.png "Vue"
 [16]: https://img.icons8.com/color/15/000000/typescript.png "Typescript"
 [17]: https://img.icons8.com/color/15/000000/angularjs.png "Angular"
-[18]: https://img.icons8.com/color/15/000000/c-sharp-logo-2.png "C#"
+[18]: https://img.icons8.com/color/15/000000/c-sharp-logo.png "C#"
 [19]: https://img.icons8.com/color/15/000000/golang.png "GoLang"
 [20]: https://img.icons8.com/color/15/000000/docker.png "Docker"
 [21]: https://img.icons8.com/color/15/000000/grafana.png "Grafana"
@@ -308,7 +309,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [24]: https://img.icons8.com/color/15/000000/plus--v1.png "Várias outras"
 [25]: https://img.icons8.com/color/15/000000/flutter.png "Flutter"
 [26]: https://img.icons8.com/color/15/000000/python--v1.png "Python"
-[27]: https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++"
+[27]: https://img.icons8.com/color/15/000000/c-plus-plus-logo.png "C++"
 [28]: https://img.icons8.com/color/15/000000/java-coffee-cup-logo--v1.png "Java"
 [29]: https://img.icons8.com/color/15/000000/database.png "Banco de dados"
 [30]: https://img.icons8.com/color/15/000000/php.png "PHP"
@@ -336,5 +337,6 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [52]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png "CodeIgniter"
 [53]: https://img.icons8.com/color/15/000000/bootstrap.png "Bootstrap"
 [54]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png "Laravel"
-
+[55]: https://img.icons8.com/color/15/000000/c-programming.png "C"
+[56]: https://img.icons8.com/fluency/15/000000/matlab.png "Matlab"
 
