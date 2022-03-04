@@ -72,6 +72,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
 | Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] ![54] | ![0] | ![0] |
 | Cursos de programação | [![13]](https://www.youtube.com/c/CursoPrograma%C3%A7%C3%A3o/) | ![0] |![0] |  ![0]| ![10] ![16] ![18] ![19] ![26] ![27] ![28] ![29] ![30] ![34] ![46] ![50] ![55] ![56] ![24] | ![0] | ![0] |
+| CFBCursos | [![13]](https://www.youtube.com/c/cfbcursos/) | ![0] | [![2]](2)| ![0]| ![10] ![11] ![26] ![28] ![30] ![39] ![40] ![46] ![53] ![57] ![58] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -338,4 +339,6 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [54]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png "Laravel"
 [55]: https://img.icons8.com/color/15/000000/c-programming.png "C"
 [56]: https://img.icons8.com/fluency/15/000000/matlab.png "Matlab"
+[57]: https://img.icons8.com/color/15/000000/arduino.png "Arduino"
+[58]: https://img.icons8.com/ios/15/000000/qt.png "Qt"
 
