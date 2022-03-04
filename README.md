@@ -117,7 +117,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## H
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Hashtag Programação | [![13]](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/) | ![0]| [![2]](https://www.hashtagtreinamentos.com/)| [![2]](https://www.hashtagtreinamentos.com/todos-os-cursos) | ![26] ![29] | ![0]| 07 a 10 de Março de 2022 [![2]](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org) |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
