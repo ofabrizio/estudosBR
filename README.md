@@ -70,7 +70,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | CodarMe | [![13]](https://www.youtube.com/c/CodarMe/) | [![3]](https://www.linkedin.com/company/codarme/) | [![2]](https://codar.me/) | [![2]](https://codar.me/) | ![10] ![11] ![20] ![26] ![39] ![40] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
 | Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
-| Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] <img src="https://brandeps.com/icon-download/L/Laravel-icon-vector-04.svg" width="15px"> | ![0] | ![0] |
+| Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] ![54] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -80,7 +80,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
-| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/ |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] | ![0]|        	|
+| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] | ![0]| ![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -136,6 +136,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Jamilton Damasceno | [![13]](https://www.youtube.com/jamiltondamasceno)| [![3]](https://www.linkedinlinkedin.com/in/jamiltondamasceno/)	| [![2]](http://jamiltondamasceno.com.br/)	| [![2]](https://www.udemy.com/user/jamiltondamasceno/) | ![10] ![25] ![26] ![30] ![32] ![33] ![34] ![35] ![36] ![37] | ![0] 	| ![0] 	|
 | Jacob Moura | [![2]](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) | [![3]](https://www.linkedin.com/in/jacob-moura/)| [![2]](https://flutterando.com.br/) | [![2]]((https://masterclass.flutterando.com.br/public/products)) | ![25] ![38] 	| ![0] 	| ![0] |
 | Jovem Programador | [![13]](https://www.youtube.com/c/JovemProgramadortv/) | ![0] | ![0] | ![0] | ![10] ![11] ![39] | ![0]	| ![0] |
+| João Ribeiro | [![13]](https://www.youtube.com/c/JLDRPT/) | ![0] | ![0] |![0]| ![10] ![16] ![18] ![25] ![26] ![28] ![30] ![39] ![46] ![47] ![51] ![52] ![54] | ![0] |![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -217,7 +218,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 ## S
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|souzaxx| [![13]](https://www.youtube.com/c/souzaxx/) | [![3]](https://www.linkedin.com/in/ldsouza1220/) | ![0] | ![0] | ![43] ![44] ![] | [![13]]() | [![13]]() |      	|
+|souzaxx| [![13]](https://www.youtube.com/c/souzaxx/) | [![3]](https://www.linkedin.com/in/ldsouza1220/) | ![0] | ![0] | ![43] ![44] | ![0] | ![0] |      	|
 | Sujeito programador | [![13]](https://www.youtube.com/c/Sujeitoprogramador) | [![3]](https://www.linkedin.com/company/sujeitoprogramador/) | [![2]](https://sujeitoprogramador.com/) | [![2]](https://sujeitoprogramador.com/fabricadeaplicativos/) [![2]](https://sujeitoprogramador.com/designinterfaces/) [![2]](https://sujeitoprogramador.com/fullstackpro/)  [![2]](https://www.udemy.com/user/matheus-fraga-2/) | ![10] ![11] ![29] ![39] ![40] ![42] ![45] ![46] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -307,7 +308,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [24]: https://img.icons8.com/color/15/000000/plus--v1.png "Várias outras"
 [25]: https://img.icons8.com/color/15/000000/flutter.png "Flutter"
 [26]: https://img.icons8.com/color/15/000000/python--v1.png "Python"
-[27]: https://img.icons8.com/color/15/000000/python--v1.png "C++"
+[27]: https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++"
 [28]: https://img.icons8.com/color/15/000000/java-coffee-cup-logo--v1.png "Java"
 [29]: https://img.icons8.com/color/15/000000/database.png "Banco de dados"
 [30]: https://img.icons8.com/color/15/000000/php.png "PHP"
@@ -324,7 +325,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [41]: https://img.icons8.com/color/15/000000/github--v1.png "Github"
 [42]: https://img.icons8.com/color/15/000000/firebase.png "Firebase"
 [43]: https://img.icons8.com/color/15/000000/terraform.png "Terraform"
-[44]: https://img.icons8.com/color/15/000000/terraform.png "Ansible"
+[44]: https://img.icons8.com/color/15/000000/ansible.png "Ansible"
 [45]: https://img.icons8.com/color/15/000000/redux.png "Redux"
 [46]: https://img.icons8.com/color/15/000000/css3.png "CSS3"
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
@@ -332,4 +333,8 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [49]: https://img.icons8.com/color/15/000000/mongodb.png "MongoDB"
 [50]: https://img.icons8.com/color/15/000000/ruby-programming-language.png "Ruby"
 [51]: https://img.icons8.com/color/15/000000/vue-js.png "Vue"
+[52]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png "CodeIgniter"
+[53]: https://img.icons8.com/color/15/000000/bootstrap.png "Bootstrap"
+[54]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png "Laravel"
+
 
