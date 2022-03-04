@@ -153,6 +153,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	![39] | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | ![0] | ![0] 	|
+|Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] |  <img src="./assets/mentor.png" width="15px"> |![0]| ![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -302,7 +303,7 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [21]: https://img.icons8.com/color/15/000000/grafana.png "Grafana"
 [22]: https://img.icons8.com/color/15/000000/kubernetes.png "Kubernetes"
 [23]: https://img.icons8.com/color/15/000000/spring-logo.png "SpringBoot"
-[24]: https://img.icons8.com/color/48/000000/plus--v1.png "Várias outras"
+[24]: https://img.icons8.com/color/15/000000/plus--v1.png "Várias outras"
 [25]: https://img.icons8.com/color/15/000000/flutter.png "Flutter"
 [26]: https://img.icons8.com/color/15/000000/python--v1.png "Python"
 [27]: https://img.icons8.com/color/15/000000/python--v1.png "C++"
@@ -327,6 +328,6 @@ One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://w
 [46]: https://img.icons8.com/color/15/000000/css3.png "CSS3"
 [47]: https://img.icons8.com/color/15/000000/sass.png "SASS"
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
-[49]: https://img.icons8.com/color/48/000000/mongodb.png "MongoDB"
+[49]: https://img.icons8.com/color/15/000000/mongodb.png "MongoDB"
 
 
