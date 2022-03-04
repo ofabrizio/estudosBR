@@ -258,7 +258,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> ![39] ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 | Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
 | Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Webdesign em Foco | [![13]](https://www.youtube.com/c/WebdesignemFocoBrasil/) | ![0] | [![2]](https://www.webdesignemfoco.com/)| ![0] | ![10] ![11] ![26] ![30] ![39] ![40] ![46] ![48] ![54] ![59] ![60] ![61] ![62] ![63] | ![0] | ![0] |
 
 <br>
 
@@ -341,4 +341,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [56]: https://img.icons8.com/fluency/15/000000/matlab.png "Matlab"
 [57]: https://img.icons8.com/color/15/000000/arduino.png "Arduino"
 [58]: https://img.icons8.com/ios/15/000000/qt.png "Qt"
-
+[59]: https://img.icons8.com/color/15/000000/google-forms.png "Google Planilhas"
+[60]: https://img.icons8.com/color/15/000000/google-ads.png "Google Ads"
+[61]: https://img.icons8.com/color/15/000000/google-forms.png "Google Forms"
+[62]: https://img.icons8.com/color/15/000000/mercado-pago.png "Mercado Pago"
+[63]: https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/15/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png "Machine Learning"
