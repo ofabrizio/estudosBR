@@ -191,7 +191,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## P
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Patrick Monteiro | [![13]](https://www.youtube.com/c/PatrickMonteiroEng/) | [![2]](https://www.linkedin.com/in/engpatrickmonteiro/)| [![2]](https://linktr.ee/patrickmonteiro) | ![0] | ![51] <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="15px">  | ![0] |![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
