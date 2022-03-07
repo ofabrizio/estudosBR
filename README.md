@@ -83,9 +83,9 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
 | Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] ![24] | ![0]| ![0]|
-| Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |      	|
-| Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] |      	|
-| Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] |      	|
+| Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |![0]|
+| Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] | ![0] |
+| Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -94,7 +94,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 |Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkeww.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | 14 a 21 de Março de 2022 [![2]](https://lp.javascriptexpert.com.br/lc-jse-mar22-inscricao) |
-| Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]
+| Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]|
 | Eduardo Mendes | [![13]](https://www.youtube.com/c/Dunossauro/videos) | ![0] | ![0] | ![0] | ![20] ![26]	| ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|     	|
 
@@ -161,7 +161,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	![39] | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | ![0] | ![0] 	|
-|Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] |  <img src="./assets/mentor.png" width="15px"> |![0]| ![0]|
+|Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] | ![25] <img src="./assets/mentor.png" width="15px"> |![0]| ![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -170,7 +170,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![3]](https://www.linkedin.com/in/michellibrito/) | [![2]](https://www.decoderproject.com/) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
-| Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![11] ![37] ![39] |             	|        	|      	|
+| Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![0] | ![11] ![37] ![39] | ![0] |![0]|
 | Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -198,7 +198,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Patrick Monteiro | [![13]](https://www.youtube.com/c/PatrickMonteiroEng/) | [![2]](https://www.linkedin.com/in/engpatrickmonteiro/)| [![2]](https://linktr.ee/patrickmonteiro) | ![0] | ![51] <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="15px">  | ![0] |![0]|
-| Pinguim do Laravel | [![13]](https://www.youtube.com/c/PinguimdoLaravel/)| ![0] | ![0] | ![0]| ![54]| ![0] |      	|
+| Pinguim do Laravel | [![13]](https://www.youtube.com/c/PinguimdoLaravel/)| ![0] | ![0] | ![0]| ![54]| ![0] |![0]|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -262,7 +262,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> ![39] ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 | Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
-| Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]|      	|
+| Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]| ![0] |
 | Webdesign em Foco | [![13]](https://www.youtube.com/c/WebdesignemFocoBrasil/) | ![0] | [![2]](https://www.webdesignemfoco.com/)| ![0] | ![10] ![11] ![26] ![30] ![39] ![40] ![46] ![48] ![54] ![59] ![60] ![61] ![62] ![63] | ![0] | ![0] |
 
 <br>
