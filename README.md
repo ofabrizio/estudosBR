@@ -169,7 +169,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## M
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
+| Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![3]](https://www.linkedin.com/in/michellibrito/) | [![2]](https://www.decoderproject.com/) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
 | Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![11] ![37] ![39] |             	|        	|      	|
 | Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
