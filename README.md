@@ -168,9 +168,10 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
 | Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![11] ![37] ![39] |             	|        	|      	|
+| Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
-``<br>
+<br>
 
 ## N
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
@@ -347,3 +348,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [61]: https://img.icons8.com/color/15/000000/google-forms.png "Google Forms"
 [62]: https://img.icons8.com/color/15/000000/mercado-pago.png "Mercado Pago"
 [63]: https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/15/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png "Machine Learning"
+
+
