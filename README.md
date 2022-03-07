@@ -85,6 +85,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] ![24] | ![0]| ![0]|
 | Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |      	|
 | Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] |      	|
+| Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
