@@ -84,6 +84,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
 | Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] ![24] | ![0]| ![0]|
 | Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |      	|
+| Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -348,5 +349,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [61]: https://img.icons8.com/color/15/000000/google-forms.png "Google Forms"
 [62]: https://img.icons8.com/color/15/000000/mercado-pago.png "Mercado Pago"
 [63]: https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/15/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png "Machine Learning"
-
-
+[64]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-color-tal-revivo.png "Elementor"
+[65]: https://img.icons8.com/color/15/000000/woocommerce.png "WooCommerce"
