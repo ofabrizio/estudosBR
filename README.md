@@ -233,7 +233,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## T
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Tiago Rosa da costa	| [![13]](https://www.youtube.com/channel/UC13Ezj4p5A0gSB4sJjZLTCA/about)| [![3]](https://www.linkedin.com/in/tiago-rosa-da-costa/) | ![0]| ![0]| ![11] ![39] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
