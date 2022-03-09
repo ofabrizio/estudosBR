@@ -114,7 +114,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Glaucia Lemos	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | [![3]](https://wttps://www.linkedin.com/in/glaucialemos/) | [![2]](https://glaucialemos.netlify.app/)	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | ![11] ![14] ![15] ![16] ![17] ![18]	| ![0] 	| ![0] 	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Gustavo Noronha | [![13]](https://www.youtube.com/c/GustavoNoronhaDev/) | [![3]](https://www.linkedin.com/in/gustavonoronha0/) | ![0] | [![2]](https://sun.eduzz.com/785969) | ![10] ![11] ![39] ![40] | ![0]	| ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
