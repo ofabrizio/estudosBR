@@ -203,7 +203,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 
 <br>
 
-## Q
+## Q 
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 |      	|         	|          	|      	|            	|             	|        	|      	|      	|
