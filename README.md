@@ -48,7 +48,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Aprenda Golang | [![13]](https://www.youtube.com/c/AprendaGolang/) | ![0] | [![2]](https://aprendagolang.com.br/) | [![2]](https://tiago-temporin.notion.site/Go-101-1fe9cef0ccc94ed3bed7f38e7dd5815d) | ![19] | ![0] |![0]|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Aldemir Gomes Dev | [![13]](https://www.youtube.com/c/AldemirGomesDev/) | [![3]](https://www.linkedin.com/in/aldemirgomesdev/) | ![0] | ![0] | ![11] ![67] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -360,3 +360,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [64]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-color-tal-revivo.png "Elementor"
 [65]: https://img.icons8.com/color/15/000000/woocommerce.png "WooCommerce"
 [66]: https://img.icons8.com/color/15/000000/redis.png "Redis"
+[67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
