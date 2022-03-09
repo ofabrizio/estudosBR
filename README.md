@@ -174,6 +174,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![3]](https://www.linkedin.com/in/michellibrito/) | [![2]](https://www.decoderproject.com/) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
 | Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![0] | ![11] ![37] ![39] | ![0] |![0]|
 | Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
+| Matheus Battisti - Hora de Codar | [![13]](https://www.youtube.com/c/MatheusBattisti/) | [![3]](https://www.linkedin.com/in/matheusbattisti/) | [![2]](https://www.horadecodar.com.br/) | [![2]](https://www.horadecodar.com.br/cursos-horadecodar/) | ![10] ![11] ![16] ![17] ![20] ![26] ![30] ![39] ![46] ![49] ![51] ![53] ![54] ![68] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] | |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -361,3 +362,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [65]: https://img.icons8.com/color/15/000000/woocommerce.png "WooCommerce"
 [66]: https://img.icons8.com/color/15/000000/redis.png "Redis"
 [67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
+[68]: https://img.icons8.com/color/24/000000/mysql-logo.png "MySQL"
