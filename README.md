@@ -256,7 +256,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## V
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Victor Lima - Guia do Programador | [![13]](https://www.youtube.com/c/GuiadoProgramador) | ![0] | ![0] | [![2]](https://www.udemy.com/user/victor-lima-67/) | ![11] ![18] | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
