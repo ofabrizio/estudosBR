@@ -96,6 +96,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |Erick Wendel | [![13]](https://www.youtube.com/c/ErickWendelTreinamentos/)	| [![3]](https://www.linkeww.linkedin.com/in/erickwendel/) | [![2]](https://wwww.erickwendel.com.br) | [![2]](https://cursos.erickwendel.com.br) | ![10][10] ![11][11] ![12][12]	| ![0] | 14 a 21 de Março de 2022 [![2]](https://lp.javascriptexpert.com.br/lc-jse-mar22-inscricao) |
 | Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]|
 | Eduardo Mendes | [![13]](https://www.youtube.com/c/Dunossauro/videos) | ![0] | ![0] | ![0] | ![20] ![26]	| ![0] | ![0] |
+| Escola Front-end | [![13]](https://www.youtube.com/c/EscolaFrontend/) | [![3]](https://www.linkedin.com/in/julio-moreira-frontend/) | ![0] | ![0] | ![10] ![11] ![16] ![17] ![46] | ![0] | ![0] |
 |      	|         	|          	|      	|            	|             	|        	|     	|
 
 <br>
