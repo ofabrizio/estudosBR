@@ -199,6 +199,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Patrick Monteiro | [![13]](https://www.youtube.com/c/PatrickMonteiroEng/) | [![2]](https://www.linkedin.com/in/engpatrickmonteiro/)| [![2]](https://linktr.ee/patrickmonteiro) | ![0] | ![51] <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="15px">  | ![0] |![0]|
 | Pinguim do Laravel | [![13]](https://www.youtube.com/c/PinguimdoLaravel/)| ![0] | ![0] | ![0]| ![54]| ![0] |![0]|
+|Pedro Pacheco| [![13]](https://www.youtube.com/c/PedroPachecoDev/) | ![0] | [![2]](https://pedropachecodev.com.br/) | ![0] | ![11] | ![0] | 09 a 14 de Março de 2022 [![2]](https://pedropachecodev.com.br/) |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
