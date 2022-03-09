@@ -131,7 +131,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## I
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Itacir Pompeu | [![13]](https://www.youtube.com/c/ItacirPompeu/) | [![3]](https://www.linkedin.com/in/itacir-pompeu-b2908b2b/) | ![0] | ![0] | ![10] ![11] | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
