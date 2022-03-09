@@ -144,6 +144,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Jacob Moura | [![2]](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) | [![3]](https://www.linkedin.com/in/jacob-moura/)| [![2]](https://flutterando.com.br/) | [![2]]((https://masterclass.flutterando.com.br/public/products)) | ![25] ![38] 	| ![0] 	| ![0] |
 | Jovem Programador | [![13]](https://www.youtube.com/c/JovemProgramadortv/) | ![0] | ![0] | ![0] | ![10] ![11] ![39] | ![0]	| ![0] |
 | João Ribeiro | [![13]](https://www.youtube.com/c/JLDRPT/) | ![0] | ![0] |![0]| ![10] ![16] ![18] ![25] ![26] ![28] ![30] ![39] ![46] ![47] ![51] ![52] ![54] | ![0] |![0]|
+| Jorge Aluizio | [![13]](https://www.youtube.com/c/JorgeAluizio/) | [![3]](https://www.linkedin.com/in/jorgealuizio/) | [![2]](https://www.aluiziodeveloper.com.br/) | [![2]](https://www.aluiziodeveloper.com.br/cursos) | ![10] ![11] ![16] ![20] ![39] ![40] ![66] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -358,3 +359,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [63]: https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/15/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png "Machine Learning"
 [64]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-color-tal-revivo.png "Elementor"
 [65]: https://img.icons8.com/color/15/000000/woocommerce.png "WooCommerce"
+[66]: https://img.icons8.com/color/15/000000/redis.png "Redis"
