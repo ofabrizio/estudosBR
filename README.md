@@ -267,6 +267,8 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
 | Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]| ![0] |
 | Webdesign em Foco | [![13]](https://www.youtube.com/c/WebdesignemFocoBrasil/) | ![0] | [![2]](https://www.webdesignemfoco.com/)| ![0] | ![10] ![11] ![26] ![30] ![39] ![40] ![46] ![48] ![54] ![59] ![60] ![61] ![62] ![63] | ![0] | ![0] |
+| Wheslley Rimar | [![13]](https://www.youtube.com/c/WheslleyRimar/videos) | [![3]](https://www.linkedin.com/in/wheslleyrimar) | ![0] | ![0] | ![10] ![11] ![39] ![46] | ![0] | ![0] |      	|
+|      	|         	|          	|      	|            	|             	|        	|      	|      	|
 
 <br>
 
