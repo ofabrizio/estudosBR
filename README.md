@@ -58,6 +58,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | birobirobiro | [![13]](https://www.youtube.com/c/birobirobiro/) | [![3]](https://www.linkedin.com/in/birobirobiro/) | [![2]](https://birobirobiro.dev/) | ![0] | ![37] ![39] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> |![0]|![0]|      	|
 |Bruno Braga|[![13]](https://www.youtube.com/channel/UCkwwsZDpcMxftRkDGql5xbw/)| [![3]](https://www.linkedin.com/in/bruno-braga-6a6b5632/) | ![0] | ![0] | ![11] ![16] | ![0]	| ![0]|
+| BackFront Academy | [![13]](https://www.youtube.com/c/BackFrontAcademy) | [![3]](https://www.linkedin.com/company/backfront-academy/) | [![2]](https://backfront.com.br/) | [![2]](https://backfront.com.br/academy/#cursos) | ![34] ![67] | ![0] | ![0] |     |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 
