@@ -83,7 +83,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
-| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![51] ![24] | ![0]| ![0]|
+| Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![15] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![24] | ![0]| ![0]|
 | Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |![0]|
 | Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] | ![0] |
 | Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] | ![0] |
@@ -98,6 +98,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Ellen Korbes| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![0]	|  ![0]	| [![13]](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)	| ![19] | ![0] | ![0]|
 | Eduardo Mendes | [![13]](https://www.youtube.com/c/Dunossauro/videos) | ![0] | ![0] | ![0] | ![20] ![26]	| ![0] | ![0] |
 | Escola Front-end | [![13]](https://www.youtube.com/c/EscolaFrontend/) | [![3]](https://www.linkedin.com/in/julio-moreira-frontend/) | ![0] | ![0] | ![10] ![11] ![16] ![17] ![46] | ![0] | ![0] |
+| EspecializaTi | [![13]](https://www.youtube.com/c/EspecializatiBr/) | [![3]](https://www.linkedin.com/company/especializati/) | [![2]](https://academy.especializati.com.br/) | [![2]](https://academy.especializati.com.br/cursos) | ![10] ![15] ![25] ![30] ![54] | ![0] | ![0] |   |
 |      	|         	|          	|      	|            	|             	|        	|     	|
 
 <br>
@@ -144,7 +145,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Jamilton Damasceno | [![13]](https://www.youtube.com/jamiltondamasceno)| [![3]](https://www.linkedinlinkedin.com/in/jamiltondamasceno/)	| [![2]](http://jamiltondamasceno.com.br/)	| [![2]](https://www.udemy.com/user/jamiltondamasceno/) | ![10] ![25] ![26] ![30] ![32] ![33] ![34] ![35] ![36] ![37] | ![0] 	| ![0] 	|
 | Jacob Moura | [![2]](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) | [![3]](https://www.linkedin.com/in/jacob-moura/)| [![2]](https://flutterando.com.br/) | [![2]]((https://masterclass.flutterando.com.br/public/products)) | ![25] ![38] 	| ![0] 	| ![0] |
 | Jovem Programador | [![13]](https://www.youtube.com/c/JovemProgramadortv/) | ![0] | ![0] | ![0] | ![10] ![11] ![39] | ![0]	| ![0] |
-| João Ribeiro | [![13]](https://www.youtube.com/c/JLDRPT/) | ![0] | ![0] |![0]| ![10] ![16] ![18] ![25] ![26] ![28] ![30] ![39] ![46] ![47] ![51] ![52] ![54] | ![0] |![0]|
+| João Ribeiro | [![13]](https://www.youtube.com/c/JLDRPT/) | ![0] | ![0] |![0]| ![10] ![15] ![16] ![18] ![25] ![26] ![28] ![30] ![39] ![46] ![47] ![52] ![54] | ![0] |![0]|
 | Jorge Aluizio | [![13]](https://www.youtube.com/c/JorgeAluizio/) | [![3]](https://www.linkedin.com/in/jorgealuizio/) | [![2]](https://www.aluiziodeveloper.com.br/) | [![2]](https://www.aluiziodeveloper.com.br/cursos) | ![10] ![11] ![16] ![20] ![39] ![40] ![66] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -175,7 +176,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Michelli Brito | [![13]](https://www.youtube.com/c/MichelliBrito/) | [![3]](https://www.linkedin.com/in/michellibrito/) | [![2]](https://www.decoderproject.com/) | [![2]](https://www.decoderproject.com/decoder-week) | ![14] ![17] ![20] ![23] ![28] | ![0] | 14 a 17 março de 2022 [![2]](https://www.decoderproject.com/decoder-week) |      	|
 | Marco Bruno | [![13]](https://www.youtube.com/c/MarcoBrunoDev)| [![3]](https://www.linkedin.com/in/marcobrunobr/) | ![0] | ![0] | ![11] ![37] ![39] | ![0] |![0]|
 | Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
-| Matheus Battisti - Hora de Codar | [![13]](https://www.youtube.com/c/MatheusBattisti/) | [![3]](https://www.linkedin.com/in/matheusbattisti/) | [![2]](https://www.horadecodar.com.br/) | [![2]](https://www.horadecodar.com.br/cursos-horadecodar/) | ![10] ![11] ![16] ![17] ![20] ![26] ![30] ![39] ![46] ![49] ![51] ![53] ![54] ![68] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] | |
+| Matheus Battisti - Hora de Codar | [![13]](https://www.youtube.com/c/MatheusBattisti/) | [![3]](https://www.linkedin.com/in/matheusbattisti/) | [![2]](https://www.horadecodar.com.br/) | [![2]](https://www.horadecodar.com.br/cursos-horadecodar/) | ![10] ![11] ![15] ![16] ![17] ![20] ![26] ![30] ![39] ![46] ![49] ![53] ![54] ![68] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] | |
 | Maransatto | [![13]](https://www.youtube.com/channel/UCzQcwdnSkg0XydyCpC2Ng_g/)	| [![3]](https://www.linkedin.com/in/fernando-silva-maransatto-a5041484/)| ![0] | [![2]](https://cursos.dankicode.com/formacao-mean-stack) [![2]](https://cursos.dankicode.com/curso-angular-completo) | ![10] ![11] ![17] | ![0] |![0] |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -202,7 +203,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## P
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-| Patrick Monteiro | [![13]](https://www.youtube.com/c/PatrickMonteiroEng/) | [![2]](https://www.linkedin.com/in/engpatrickmonteiro/)| [![2]](https://linktr.ee/patrickmonteiro) | ![0] | ![51] <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="15px">  | ![0] |![0]|
+| Patrick Monteiro | [![13]](https://www.youtube.com/c/PatrickMonteiroEng/) | [![2]](https://www.linkedin.com/in/engpatrickmonteiro/)| [![2]](https://linktr.ee/patrickmonteiro) | ![0] | ![15] <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="15px">  | ![0] |![0]|
 | Pinguim do Laravel | [![13]](https://www.youtube.com/c/PinguimdoLaravel/)| ![0] | ![0] | ![0]| ![54]| ![0] |![0]|
 |Pedro Pacheco| [![13]](https://www.youtube.com/c/PedroPachecoDev/) | ![0] | [![2]](https://pedropachecodev.com.br/) | ![0] | ![11] | ![0] | 09 a 14 de Março de 2022 [![2]](https://pedropachecodev.com.br/) |
 |      	|         	|          	|      	|            	|             	|        	|      	|
@@ -347,7 +348,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [49]: https://img.icons8.com/color/15/000000/mongodb.png "MongoDB"
 [50]: https://img.icons8.com/color/15/000000/ruby-programming-language.png "Ruby"
-[51]: https://img.icons8.com/color/15/000000/vue-js.png "Vue"
+[51]: https:// " "
 [52]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png "CodeIgniter"
 [53]: https://img.icons8.com/color/15/000000/bootstrap.png "Bootstrap"
 [54]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png "Laravel"
@@ -364,4 +365,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [65]: https://img.icons8.com/color/15/000000/woocommerce.png "WooCommerce"
 [66]: https://img.icons8.com/color/15/000000/redis.png "Redis"
 [67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
-[68]: https://img.icons8.com/color/24/000000/mysql-logo.png "MySQL"
+[68]: https://img.icons8.com/color/15/000000/mysql-logo.png "MySQL"
