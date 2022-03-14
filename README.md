@@ -74,6 +74,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] ![54] | ![0] | ![0] |
 | Cursos de programação | [![13]](https://www.youtube.com/c/CursoPrograma%C3%A7%C3%A3o/) | ![0] |![0] |  ![0]| ![10] ![16] ![18] ![19] ![26] ![27] ![28] ![29] ![30] ![34] ![46] ![50] ![55] ![56] ![24] | ![0] | ![0] |
 | CFBCursos | [![13]](https://www.youtube.com/c/cfbcursos/) | ![0] | [![2]](2)| ![0]| ![10] ![11] ![26] ![28] ![30] ![39] ![40] ![46] ![53] ![57] ![58] | ![0] | ![0] |
+| Celke | [![13]](https://www.youtube.com/c/CelkeBr/) | [![3]](https://www.linkedin.com/in/celke-cursos-3ab6aa101/) | [![2]](https://celke.com.br/) | [![2]](https://celke.com.br/cursos) | ![10] ![11] ![30] ![39] ![40] ![46] ![68] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
