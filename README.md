@@ -168,6 +168,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	![39] | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | [![2]](https://www.amazon.com.br/Loiane-Groner/e/B07C6L6GPM/) | ![0] 	|
 |Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] | ![25] <img src="./assets/mentor.png" width="15px"> |![0]| ![0]|
+| LuizTools | [![13]](https://www.youtube.com/c/LuizTools) | [![3]](https://www.linkedin.com/in/luiztools) | [![2]](https://www.luiztools.com.br/) | [![2]](https://www.luiztools.com.br/meus-cursos/) | ![10] ![11] ![12] ![16] ![20] ![39] ![40] ![49] ![66] | [![2]](https://www.luiztools.com.br/meus-livros/) | ![0]|  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
