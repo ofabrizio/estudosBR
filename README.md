@@ -178,6 +178,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Matheus Castiglioni | [![13]](https://www.youtube.com/c/MatheusCastiglioni/) | [![3]](https://www.linkedin.com/in/matheus-castiglioni-7aa105114/) | [![2]](https://www.matheuscastiglioni.com.br/) | ![0] | ![11] ![39] ![40] ![45] ![46] | ![0] | ![0] |
 | Matheus Battisti - Hora de Codar | [![13]](https://www.youtube.com/c/MatheusBattisti/) | [![3]](https://www.linkedin.com/in/matheusbattisti/) | [![2]](https://www.horadecodar.com.br/) | [![2]](https://www.horadecodar.com.br/cursos-horadecodar/) | ![10] ![11] ![15] ![16] ![17] ![20] ![26] ![30] ![39] ![46] ![49] ![53] ![54] ![68] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] | |
 | Maransatto | [![13]](https://www.youtube.com/channel/UCzQcwdnSkg0XydyCpC2Ng_g/)	| [![3]](https://www.linkedin.com/in/fernando-silva-maransatto-a5041484/)| ![0] | [![2]](https://cursos.dankicode.com/formacao-mean-stack) [![2]](https://cursos.dankicode.com/curso-angular-completo) | ![10] ![11] ![17] | ![0] |![0] |
+| Mateus Silva | [![13]](https://www.youtube.com/c/MateusSilvaDev/) | [![3]](https://www.linkedin.com/in/mateusilva/)| [![2]](https://jstack.com.br/) | [![2]](https://jstack.com.br/) | ![10] ![11] ![31] ![39] ![40] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
