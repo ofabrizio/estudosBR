@@ -87,6 +87,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |![0]|
 | Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] | ![0] |
 | Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] | ![0] |
+| Developer Thing's | [![13]](https://www.youtube.com/c/CoisadeDevOficial/) | ![0] | ![0] | ![0]| ![11] ![26] ![29] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
