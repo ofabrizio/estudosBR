@@ -135,7 +135,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Itacir Pompeu | [![13]](https://www.youtube.com/c/ItacirPompeu/) | [![3]](https://www.linkedin.com/in/itacir-pompeu-b2908b2b/) | ![0] | ![0] | ![10] ![11] | ![0] | ![0] |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Igor Lucci | [![13]](https://www.youtube.com/c/IgorLucci/) | [![3]](https://www.linkedin.com/in/igorlucci/) | [![2]](https://igorlucci.carrd.co/) | [![2]](https://www.udemy.com/user/igor-fontolan-lucci/) | ![14] ![26] ![51] ![69] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -351,7 +351,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [48]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [49]: https://img.icons8.com/color/15/000000/mongodb.png "MongoDB"
 [50]: https://img.icons8.com/color/15/000000/ruby-programming-language.png "Ruby"
-[51]: https:// " "
+[51]: https://img.icons8.com/color/15/000000/google-cloud-platform.png "Google Cloud Platform"
 [52]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png "CodeIgniter"
 [53]: https://img.icons8.com/color/15/000000/bootstrap.png "Bootstrap"
 [54]: https://img.icons8.com/external-tal-revivo-color-tal-revivo/15/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png "Laravel"
@@ -369,3 +369,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [66]: https://img.icons8.com/color/15/000000/redis.png "Redis"
 [67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
 [68]: https://img.icons8.com/color/15/000000/mysql-logo.png "MySQL"
+[69]: https://img.icons8.com/color/15/000000/sql.png "SQL"
