@@ -197,7 +197,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://www.linkedin.com/company/onebitcode/) | [![2]](https://beacons.page/onebitcode) |  [![2]](https://beacons.page/onebitcode) | ![10] ![11] ![16] ![29] ![39] | [![2]](https://programadornomade.onebitcode.com/) | ![0]|      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Overstack | [![13]](https://www.youtube.com/c/Overstack_oficial/) | [![3]](https://www.linkedin.com/company/overstack/) | [![2]](https://www.overstack.com.br/) | [![2]](https://www.overstack.com.br/)  | ![10] ![11] ![39] ![40] ![49]  <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0]|  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
