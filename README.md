@@ -88,6 +88,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] | ![0] |
 | Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] | ![0] |
 | Developer Thing's | [![13]](https://www.youtube.com/c/CoisadeDevOficial/) | ![0] | ![0] | ![0]| ![11] ![26] ![29] | ![0] | ![0] |  |
+| DB Cloud | [![13]](https://www.youtube.com/c/DBCloudTreinamentos/) | [![3]](https://www.linkedin.com/company/dbcloudtreinamentos/) | ![0] | ![0] | ![12] ![43] ![44] ![70] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -370,3 +371,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
 [68]: https://img.icons8.com/color/15/000000/mysql-logo.png "MySQL"
 [69]: https://img.icons8.com/color/15/000000/sql.png "SQL"
+[70]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/15/000000/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png "DevOps"
