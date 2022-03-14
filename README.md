@@ -233,6 +233,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Rodrigo Branas	| [![13]](https://www.youtube.com/c/RodrigoBranas)	| [![3]](https://www.linkedin.cokedin.com/in/rodrigobranas/)	| [![2][2]](https://branas.io)	| [![2][2]](https://app.branas.io/public/products) |  ![10] ![11] ![15] ![16] 	| ![0] | ![0] |
 | Rodrigo Rahman	| [![2]](https://www.youtube.com/c/RodrigoRahman) | [![3]](https://www.linkedin.com/in/rodrigo-rahman/) | [![3]](http://academiadoflutter.com.br/) | [![3]](http://academiadoflutter.com.br/) | ![25] ![30] | ![0]	| ![0]	|
 | Ralf Lima | [![13]](https://www.youtube.com/c/RalfLima/) | [![3]](https://www.linkedin.com/in/ralf-lima-3b93708a/) | [![2]](https://www.ralflima.com/) | ![0] | ![11] ![18] ![23] ![39] <img src="https://brandeps.com/icon-download/D/Dot-net-icon-vector-01.svg" width="15px">| ![0] | ![0] |
+| Roger Melo | [![13]](https://www.youtube.com/c/RogerMelo/) | [![3]](https://www.linkedin.com/in/r-melo/) | ![0] | [![2]](https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf) | ![10] ![42] | ![0]| ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
