@@ -109,7 +109,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Fala, Coders! | [![13]](https://www.youtube.com/c/SevenCoders/) | ![0] | ![0] | ![0] |![10] ![39] ![40] |![0] |![0] | 
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Felipe - Dev Samurai | [![13]](https://www.youtube.com/c/DevsamuraiBr/) | [![3]](https://www.linkedin.com/in/felipefontoura/) | [![2]](https://devsamurai.com.br/) | [![2]](https://lp.devsamurai.com.br/wue3c2p5/) | ![10] ![11] ![16] ![25] ![39] ![40] ![46] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
