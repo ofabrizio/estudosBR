@@ -76,6 +76,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | CFBCursos | [![13]](https://www.youtube.com/c/cfbcursos/) | ![0] | [![2]](2)| ![0]| ![10] ![11] ![26] ![28] ![30] ![39] ![40] ![46] ![53] ![57] ![58] | ![0] | ![0] |
 | Celke | [![13]](https://www.youtube.com/c/CelkeBr/) | [![3]](https://www.linkedin.com/in/celke-cursos-3ab6aa101/) | [![2]](https://celke.com.br/) | [![2]](https://celke.com.br/cursos) | ![10] ![11] ![30] ![39] ![40] ![46] ![68] | ![0] | ![0] |  |
 | Code83 | [![13]](https://www.youtube.com/channel/UCsOFtSwuJuuX_kj8F30-nyQ/) | ![0] | ![0] | ![0] | ![11] ![16] ![39] | ![0] | ![0] | |
+| Canal da Cloud | [![13]](https://www.youtube.com/c/CanaldaCloud/) | [![3]](https://www.linkedin.com/in/canal-da-cloud/) | ![0] | ![0] | ![11] ![14] ![51] <img src="./assets/mentor.png" width="15px"> | ![0]| ![0]|  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
