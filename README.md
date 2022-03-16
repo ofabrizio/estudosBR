@@ -113,6 +113,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Fala, Coders! | [![13]](https://www.youtube.com/c/SevenCoders/) | ![0] | ![0] | ![0] |![10] ![39] ![40] |![0] |![0] | 
 | Felipe - Dev Samurai | [![13]](https://www.youtube.com/c/DevsamuraiBr/) | [![3]](https://www.linkedin.com/in/felipefontoura/) | [![2]](https://devsamurai.com.br/) | [![2]](https://lp.devsamurai.com.br/wue3c2p5/) | ![10] ![11] ![16] ![25] ![39] ![40] ![46] | ![0] | ![0] |  |
+| Flutterando | [![13]](https://www.youtube.com/c/Flutterando/) | [![3]](https://www.linkedin.com/company/theflutterando/) | [![2]](https://flutterando.com.br/) | [![2]](https://masterclass.flutterando.com.br/) | ![25] ![38] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -378,4 +379,3 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [68]: https://img.icons8.com/color/15/000000/mysql-logo.png "MySQL"
 [69]: https://img.icons8.com/color/15/000000/sql.png "SQL"
 [70]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/15/000000/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png "DevOps"
-
