@@ -389,4 +389,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [78]: ./assets/xamarin.svg "Xamarin"
 [79]: ./assets/blazor.svg "Blazor"
 [80]: ./assets/designpattern.svg "Design Pattern"
-[81]: ./assets/driven-development-TDD_preview_rev_1.svg "Test Driven Development"
+[81]: ./assets/TDD.svg "Test Driven Development"
