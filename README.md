@@ -76,7 +76,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | CFBCursos | [![13]](https://www.youtube.com/c/cfbcursos/) | ![0] | [![2]](2)| ![0]| ![10] ![11] ![26] ![28] ![30] ![39] ![40] ![46] ![53] ![57] ![58] | ![0] | ![0] |
 | Celke | [![13]](https://www.youtube.com/c/CelkeBr/) | [![3]](https://www.linkedin.com/in/celke-cursos-3ab6aa101/) | [![2]](https://celke.com.br/) | [![2]](https://celke.com.br/cursos) | ![10] ![11] ![30] ![39] ![40] ![46] ![68] | ![0] | ![0] |  |
 | Code83 | [![13]](https://www.youtube.com/channel/UCsOFtSwuJuuX_kj8F30-nyQ/) | ![0] | ![0] | ![0] | ![11] ![16] ![39] | ![0] | ![0] | |
-| Canal da Cloud | [![13]](https://www.youtube.com/c/CanaldaCloud/) | [![3]](https://www.linkedin.com/in/canal-da-cloud/) | ![0] | ![0] | ![11] ![14] ![51] <img src="./assets/mentor.png" width="15px"> | ![0]| ![0]|  |
+| Canal da Cloud | [![13]](https://www.youtube.com/c/CanaldaCloud/) | [![3]](https://www.linkedin.com/in/canal-da-cloud/) | ![0] | ![0] | ![11] ![14] ![51] ![76] | ![0]| ![0]|  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -87,11 +87,12 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | DevSuperior	| [![13]](https://www.youtube.com/devsuperior) | [![3]](https://www.linkedin.com/school//school/devsuperior) |  [![2]](https://devsuperior.com.br/) | [![2]](https://www.udemy.com/user/nelio-alves/) | ![16] ![17] ![18] ![23] ![28] ![39] | ![0] | 7 a 13 de março de 2022 [![2]](https://devsuperior.com.br/sds-inscricao-org)	|
 | DevPleno | [![13]](https://www.youtube.com/c/Devplenocom/) | [![3]](https://www.linkedin.com/school/odevpleno/) | [![2]](https://devpleno.com/) | [![2]](https://devpleno.com/cursos) | ![10] ![11] ![12] ![16] ![20] ![29] ![31] ![42] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> | ![0] | [![2]](https://www.youtube.com/c/DevPlenoD30) |
 | Danilo Aparecido | [![13]](https://www.youtube.com/c/DaniloAparecido/playlists) | [![3]](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/) | [![2]](https://www.torneseumprogramador.com.br/) |[![2]](https://www.torneseumprogramador.com.br/cursos) | ![10] ![15] ![17] ![18] ![28] ![29] ![30] ![39] ![46] ![48] ![50] ![24] | ![0]| ![0]|
-| Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] <img src="./assets/mentor.png" width="15px"> | ![0] |![0]|
+| Dev Aprender | [![13]](https://www.youtube.com/c/DevAprender/) | [![3]](https://www.linkedin.com/company/devaprender/) | [![2]](https://devaprender.com/) | ![0] | ![10] ![25] ![26] ![29] ![76] | ![0] |![0]|
 | Descomplicando Sites | [![13]](https://www.youtube.com/c/DescomplicandoSites/) | ![0] | [![2]](https://descomplicandosites.com.br/) | [![2]](https://descomplicandosites.com.br/curso-descomplicando-sites/) |   	![49] ![64] ![65] | ![0] | ![0] |
 | Deivid Willyan | [![2]](https://www.youtube.com/c/DeividWillyan/videos) | [![3]](https://www.linkedin.com/in/deivid-willyan-19776abb/)| ![0] | ![0] | ![25] ![38] | ![0] | ![0] |
 | Developer Thing's | [![13]](https://www.youtube.com/c/CoisadeDevOficial/) | ![0] | ![0] | ![0]| ![11] ![26] ![29] | ![0] | ![0] |  |
 | DB Cloud | [![13]](https://www.youtube.com/c/DBCloudTreinamentos/) | [![3]](https://www.linkedin.com/company/dbcloudtreinamentos/) | ![0] | ![0] | ![12] ![43] ![44] ![70] | ![0] | ![0] |  |
+| desenvolvedor.io | [![13]](https://www.youtube.com/c/desenvolvedorio/) | [![3]](https://www.linkedin.com/company/desenvolvedor-io/) | [![2]](https://desenvolvedor.io/) | [![2]](https://desenvolvedor.io/cursos) | ![71] ![72] ![73] ![74] ![70] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -122,7 +123,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Glaucia Lemos	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | [![3]](https://wttps://www.linkedin.com/in/glaucialemos/) | [![2]](https://glaucialemos.netlify.app/)	| [![13]](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ) | ![11] ![14] ![15] ![16] ![17] ![18]	| ![0] 	| ![0] 	|
-| Gustavo Noronha | [![13]](https://www.youtube.com/c/GustavoNoronhaDev/) | [![3]](https://www.linkedin.com/in/gustavonoronha0/) | ![0] | [![2]](https://sun.eduzz.com/785969) | ![10] ![11] ![39] ![40] | ![0]	| ![0] |      	|
+| Gustavo Noronha | [![13]](https://www.youtube.com/c/GustavoNoronhaDev/) | [![3]](https://www.linkedin.com/in/gustavonoronha0/) | ![0] | [![2]](https://sun.eduzz.com/785969) | ![10] ![11] ![39] ![40] | ![0]	| ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -171,7 +172,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Luiz Otávio Miranda	| [![13]](https://www.youtube.com/otaviomiranda)	| [![3]](https://www.linkedin.inkedin.com/in/todoespacoonline/)	| [![2]](https://beacons.page/otaviomiranda)	| [![2]](https://www.udemy.com/user/luiz-otavio-miranda/)	| ![10]	![16]	![26]	![31]	![39] | ![0] | ![0] |
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | [![2]](https://www.amazon.com.br/Loiane-Groner/e/B07C6L6GPM/) | ![0] 	|
-|Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] | ![25] <img src="./assets/mentor.png" width="15px"> |![0]| ![0]|
+|Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] | ![25] ![76] |![0]| ![0]|
 | LuizTools | [![13]](https://www.youtube.com/c/LuizTools) | [![3]](https://www.linkedin.com/in/luiztools) | [![2]](https://www.luiztools.com.br/) | [![2]](https://www.luiztools.com.br/meus-cursos/) | ![10] ![11] ![12] ![16] ![20] ![39] ![40] ![49] ![66] | [![2]](https://www.luiztools.com.br/meus-livros/) | ![0]|  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
@@ -235,7 +236,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Rodrigo Rahman	| [![2]](https://www.youtube.com/c/RodrigoRahman) | [![3]](https://www.linkedin.com/in/rodrigo-rahman/) | [![3]](http://academiadoflutter.com.br/) | [![3]](http://academiadoflutter.com.br/) | ![25] ![30] | ![0]	| ![0]	|
 | Ralf Lima | [![13]](https://www.youtube.com/c/RalfLima/) | [![3]](https://www.linkedin.com/in/ralf-lima-3b93708a/) | [![2]](https://www.ralflima.com/) | ![0] | ![11] ![18] ![23] ![39] <img src="https://brandeps.com/icon-download/D/Dot-net-icon-vector-01.svg" width="15px">| ![0] | ![0] |
 | Roger Melo | [![13]](https://www.youtube.com/c/RogerMelo/) | [![3]](https://www.linkedin.com/in/r-melo/) | ![0] | [![2]](https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf) | ![10] ![42] | ![0]| ![0] |  |
-| Rocketseat | [![13]](https://www.youtube.com/c/RocketSeat/) | [![3]](https://www.linkedin.com/school/rocketseat/) | [![2]](https://www.rocketseat.com.br/) | [![2]](https://www.rocketseat.com.br/pricing) | ![10] ![11] ![16] ![20] ![25] ![31] ![38] ![39] ![40] ![41] ![42] ![46] ![49] <img src="./assets/elixir.svg" width="15px" alt="Elixir"> ![24] | ![0] | ![0] |  | 
+| Rocketseat | [![13]](https://www.youtube.com/c/RocketSeat/) | [![3]](https://www.linkedin.com/school/rocketseat/) | [![2]](https://www.rocketseat.com.br/) | [![2]](https://www.rocketseat.com.br/pricing) | ![10] ![11] ![16] ![20] ![25] ![31] ![38] ![39] ![40] ![41] ![42] ![46] ![49] ![75] ![24] | ![0] | ![0] |  | 
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -281,7 +282,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Wesley Willians	| [![13]](https://www.youtube.com/c/FullCycle/videos) | [![3]](https://www.linkedin.inkedin.com/in/wesleywillians/) | [![2]](https://imersao.fullcycle.com.br/)| [![2]](https://imersao.fullcycle.com.br/) | ![19] ![20] ![21] ![22] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> ![39] ![24] | ![0] | 04 a 11 de Abril de 2022 [![2]](https://imersao.fullcycle.com.br/page/imersao-fs-fc-7-insta-face/) |
 | Waldemar Neto | [![13]](https://www.youtube.com/c/WaldemarNetoDevLab/) | [![3]](https://br.linkedin.com/in/waldemarnt) | [![2]](https://walde.co/) | ![0] | ![10] ![11] ![16] ![20] | [![2]](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)| ![0] |
-| Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0]| ![0] |
+| Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0] |
 | Webdesign em Foco | [![13]](https://www.youtube.com/c/WebdesignemFocoBrasil/) | ![0] | [![2]](https://www.webdesignemfoco.com/)| ![0] | ![10] ![11] ![26] ![30] ![39] ![40] ![46] ![48] ![54] ![59] ![60] ![61] ![62] ![63] | ![0] | ![0] |
 | Wheslley Rimar | [![13]](https://www.youtube.com/c/WheslleyRimar/videos) | [![3]](https://www.linkedin.com/in/wheslleyrimar) | ![0] | ![0] | ![10] ![11] ![39] ![46] | ![0] | ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|      	|
@@ -378,4 +379,10 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [67]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
 [68]: https://img.icons8.com/color/15/000000/mysql-logo.png "MySQL"
 [69]: https://img.icons8.com/color/15/000000/sql.png "SQL"
-[70]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/15/000000/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png "DevOps"
+[70]: ./assets/devops.svg "DevOPS"
+[71]: ./assets/security.svg "Segurança" 
+[72]: ./assets/netcore.svg "Asp .NET Core"
+[73]: ./assets/softwarearchitecture.svg "Arquitetura de software"
+[74]: ./assets/richdomain.svg "Dominios Ricos"
+[75]: ./assets/elixir.svg "Elixir"
+[76]: ./assets/mentor.svg "Mentor"
