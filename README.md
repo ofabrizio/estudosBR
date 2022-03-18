@@ -49,6 +49,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Aprenda Golang | [![13]](https://www.youtube.com/c/AprendaGolang/) | ![0] | [![2]](https://aprendagolang.com.br/) | [![2]](https://tiago-temporin.notion.site/Go-101-1fe9cef0ccc94ed3bed7f38e7dd5815d) | ![19] | ![0] |![0]|      	|
 | Aldemir Gomes Dev | [![13]](https://www.youtube.com/c/AldemirGomesDev/) | [![3]](https://www.linkedin.com/in/aldemirgomesdev/) | ![0] | ![0] | ![11] ![67] | ![0] | ![0] |
+| Andre Okazaki | [![13]](https://www.youtube.com/c/OkazakiAndre/) | [![3]](https://www.linkedin.com/in/okazakiandre/) | ![0] | ![0] | ![18] ![81] |        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -60,9 +61,6 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |Bruno Braga|[![13]](https://www.youtube.com/channel/UCkwwsZDpcMxftRkDGql5xbw/)| [![3]](https://www.linkedin.com/in/bruno-braga-6a6b5632/) | ![0] | ![0] | ![11] ![16] | ![0]	| ![0]|
 | BackFront Academy | [![13]](https://www.youtube.com/c/BackFrontAcademy) | [![3]](https://www.linkedin.com/company/backfront-academy/) | [![2]](https://backfront.com.br/) | [![2]](https://backfront.com.br/academy/#cursos) | ![34] ![67] | ![0] | ![0] |     |
 |      	|         	|          	|      	|            	|             	|        	|      	|
-
-
-
 
 <br>
 
@@ -391,3 +389,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [78]: ./assets/xamarin.svg "Xamarin"
 [79]: ./assets/blazor.svg "Blazor"
 [80]: ./assets/designpattern.svg "Design Pattern"
+[81]: ./assets/driven-development-TDD_preview_rev_1.svg "Test Driven Development"
