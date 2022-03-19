@@ -50,6 +50,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Aprenda Golang | [![13]](https://www.youtube.com/c/AprendaGolang/) | ![0] | [![2]](https://aprendagolang.com.br/) | [![2]](https://tiago-temporin.notion.site/Go-101-1fe9cef0ccc94ed3bed7f38e7dd5815d) | ![19] | ![0] |![0]|      	|
 | Aldemir Gomes Dev | [![13]](https://www.youtube.com/c/AldemirGomesDev/) | [![3]](https://www.linkedin.com/in/aldemirgomesdev/) | ![0] | ![0] | ![11] ![67] | ![0] | ![0] |
 | Andre Okazaki | [![13]](https://www.youtube.com/c/OkazakiAndre/) | [![3]](https://www.linkedin.com/in/okazakiandre/) | ![0] | ![0] | ![18] ![81] |        	|      	|
+| Além Do Código | [![13]](https://www.youtube.com/c/Al%C3%A9mDoC%C3%B3digo/) | [![3]](https://www.linkedin.com/company/al%C3%A9m-do-c%C3%B3digo/) | ![0] | ![0] | ![10] ![39] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
