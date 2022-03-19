@@ -75,6 +75,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Celke | [![13]](https://www.youtube.com/c/CelkeBr/) | [![3]](https://www.linkedin.com/in/celke-cursos-3ab6aa101/) | [![2]](https://celke.com.br/) | [![2]](https://celke.com.br/cursos) | ![10] ![11] ![30] ![39] ![40] ![46] ![68] | ![0] | ![0] |  |
 | Code83 | [![13]](https://www.youtube.com/channel/UCsOFtSwuJuuX_kj8F30-nyQ/) | ![0] | ![0] | ![0] | ![11] ![16] ![39] | ![0] | ![0] | |
 | Canal da Cloud | [![13]](https://www.youtube.com/c/CanaldaCloud/) | [![3]](https://www.linkedin.com/in/canal-da-cloud/) | ![0] | ![0] | ![11] ![14] ![51] ![76] | ![0]| ![0]|  |
+| Cabra Dev | [![13]](https://www.youtube.com/c/dersonsena-cabradev/) | [![3]](https://www.linkedin.com/in/dersonsena/) | [![2]](https://cabra.dev/) | ![0] | ![30] ![77] ![81] ![83] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -187,7 +188,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Matheus Battisti - Hora de Codar | [![13]](https://www.youtube.com/c/MatheusBattisti/) | [![3]](https://www.linkedin.com/in/matheusbattisti/) | [![2]](https://www.horadecodar.com.br/) | [![2]](https://www.horadecodar.com.br/cursos-horadecodar/) | ![10] ![11] ![15] ![16] ![17] ![20] ![26] ![30] ![39] ![46] ![49] ![53] ![54] ![68] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px">  | ![0] | ![0] | |
 | Maransatto | [![13]](https://www.youtube.com/channel/UCzQcwdnSkg0XydyCpC2Ng_g/)	| [![3]](https://www.linkedin.com/in/fernando-silva-maransatto-a5041484/)| ![0] | [![2]](https://cursos.dankicode.com/formacao-mean-stack) [![2]](https://cursos.dankicode.com/curso-angular-completo) | ![10] ![11] ![17] | ![0] |![0] |
 | Mateus Silva | [![13]](https://www.youtube.com/c/MateusSilvaDev/) | [![3]](https://www.linkedin.com/in/mateusilva/)| [![2]](https://jstack.com.br/) | [![2]](https://jstack.com.br/) | ![10] ![11] ![31] ![39] ![40] | ![0] | ![0] |  |
-| Macoratti | [![13]](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw/) | [![3]](https://www.linkedin.com/in/jose-macoratti-2507156a/) | [![2]](https://macoratti.net.br/) | [![2]](https://www.macoratti.net.br/Home/Cursos) | ![18] ![20] ![25] ![39] ![72] ![78] ![79] ![80] | ![0] | ![0] |   |
+| Macoratti | [![13]](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw/) | [![3]](https://www.linkedin.com/in/jose-macoratti-2507156a/) | [![2]](https://macoratti.net.br/) | [![2]](https://www.macoratti.net.br/Home/Cursos) | ![18] ![20] ![25] ![39] ![72] ![77] ![78] ![79] ![80] | ![0] | ![0] |   |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -393,3 +394,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [80]: ./assets/designpattern.svg "Design Pattern"
 [81]: ./assets/TDD.svg "Test Driven Development"
 [82]: ./assets/django.svg "Django"
+[83]: ./assets/yii3.svg "Yii"
