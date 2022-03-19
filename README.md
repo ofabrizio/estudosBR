@@ -173,6 +173,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Loiane Groner	| [![13]](https://www.youtube.com/c/loianegroner) | [![3]](https://www.linkedin.com/in/loiane/)	| [![2]](https://loiane.training/)	| [![2]](https://loiane.training/cursos) | ![17] ![23] ![28] | [![2]](https://www.amazon.com.br/Loiane-Groner/e/B07C6L6GPM/) | ![0] 	|
 |Lucas Montano| [![13]](https://www.youtube.com/c/LucasMontano/)| [![3]](https://www.linkedin.com/in/lucasmontano/) |[![2]](https://lucasmontano.com/)| ![0] | ![25] ![76] |![0]| ![0]|
 | LuizTools | [![13]](https://www.youtube.com/c/LuizTools) | [![3]](https://www.linkedin.com/in/luiztools) | [![2]](https://www.luiztools.com.br/) | [![2]](https://www.luiztools.com.br/meus-cursos/) | ![10] ![11] ![12] ![16] ![20] ![39] ![40] ![49] ![66] | [![2]](https://www.luiztools.com.br/meus-livros/) | ![0]|  |
+| Lucas Souza Dev | [![13]](https://www.youtube.com/c/LucasSouzaDev/) | ![0] | [![2]](https://www.odevtaligado.com/) | ![0] | ![11] ![16] ![39] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -272,7 +273,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Victor Lima - Guia do Programador | [![13]](https://www.youtube.com/c/GuiadoProgramador) | ![0] | ![0] | [![2]](https://www.udemy.com/user/victor-lima-67/) | ![11] ![18] | ![0] | ![0] |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Vitor Cunha Code | [![13]](https://www.youtube.com/c/VitorCunhaCode) |  |      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
