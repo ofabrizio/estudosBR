@@ -61,6 +61,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | birobirobiro | [![13]](https://www.youtube.com/c/birobirobiro/) | [![3]](https://www.linkedin.com/in/birobirobiro/) | [![2]](https://birobirobiro.dev/) | ![0] | ![37] ![39] ![85]|![0]|![0]|      	|
 |Bruno Braga|[![13]](https://www.youtube.com/channel/UCkwwsZDpcMxftRkDGql5xbw/)| [![3]](https://www.linkedin.com/in/bruno-braga-6a6b5632/) | ![0] | ![0] | ![11] ![16] | ![0]	| ![0]|
 | BackFront Academy | [![13]](https://www.youtube.com/c/BackFrontAcademy) | [![3]](https://www.linkedin.com/company/backfront-academy/) | [![2]](https://backfront.com.br/) | [![2]](https://backfront.com.br/academy/#cursos) | ![34] ![67] | ![0] | ![0] |     |
+| Bonieky Lacerda | [![13]](https://www.youtube.com/c/BoniekyLacerdaLeal) | [![3]](https://www.linkedin.com/company/b7web/) | [![2]](https://b7web.com.br/) | [![2]](https://b7web.com.br/fullstack/) | ![10] ![11] ![15] ![16] ![17] ![20] ![25] ![29] ![30] ![31] ![33] ![35] ![39] ![40] ![41] ![42] ![54] ![68] ![76] ![85] ![88] ![24] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -347,7 +348,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [30]: https://img.icons8.com/color/15/000000/php.png "PHP"
 [31]: https://img.icons8.com/color/15/000000/graphql.png "GraphQL"
 [32]: https://img.icons8.com/color/15/000000/kotlin.png "Kotlin"
-[33]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpres"
+[33]: https://img.icons8.com/color/15/000000/wordpress.png "Wordpress"
 [34]: https://img.icons8.com/color/15/000000/swift.png "Swift"
 [35]: https://img.icons8.com/color/15/000000/adobe-xd--v1.png "Adobe XD"
 [36]: https://img.icons8.com/color/15/000000/android-os.png "Android"
@@ -402,3 +403,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [85]: ./assets/nextjs.svg "NextJS"
 [86]: ./assets/cypress.svg "Cypress"
 [87]: ./assets/gatsbyjs.svg "GatsbyJS"
+[88]: ./assets/adonisjs.svg "AdonisJS"
+
