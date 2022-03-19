@@ -254,7 +254,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Tiago Rosa da costa	| [![13]](https://www.youtube.com/channel/UC13Ezj4p5A0gSB4sJjZLTCA/about)| [![3]](https://www.linkedin.com/in/tiago-rosa-da-costa/) | ![0]| ![0]| ![11] ![39] <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0] |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| TipsCode | [![13]](https://www.youtube.com/c/TipsCode/) | [![3]](https://www.linkedin.com/in/alisson-suassuna-5967a8b2/) | [![2]](https://tipscode.com.br/) | [![2]](https://tipscode.com.br/curso-fullstack-turbo) | ![10] ![11] ![39] ![42] ![49] | ![0] | ![0] |   |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -317,7 +317,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 <br>
 
 [0]: https://img.icons8.com/color/15/000000/delete-sign--v1.png "Não"
-[2]: https://img.icons8.com/color/15/000000/geography--v1.png
+[2]: https://img.icons8.com/color/15/000000/geography--v1.png "Link"
 [3]: https://img.icons8.com/color/15/000000/linkedin.png "Linkedin"
 [10]: https://img.icons8.com/color/15/000000/javascript--v2.png "Javascript"
 [11]: https://img.icons8.com/color/15/000000/nodejs.png "NodeJS"
