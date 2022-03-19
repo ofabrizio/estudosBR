@@ -289,6 +289,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Washington Developer | [![13]](https://www.youtube.com/c/WashingtonDeveloper/)| [![3]](https://www.linkedin.com/in/washington-martins-da-silva-73193585/) | ![0] | ![0] | ![31] ![38] ![39] ![45] | ![0]| ![0] |
 | Webdesign em Foco | [![13]](https://www.youtube.com/c/WebdesignemFocoBrasil/) | ![0] | [![2]](https://www.webdesignemfoco.com/)| ![0] | ![10] ![11] ![26] ![30] ![39] ![40] ![46] ![48] ![54] ![59] ![60] ![61] ![62] ![63] | ![0] | ![0] |
 | Wheslley Rimar | [![13]](https://www.youtube.com/c/WheslleyRimar/videos) | [![3]](https://www.linkedin.com/in/wheslleyrimar) | ![0] | ![0] | ![10] ![11] ![39] ![46] | ![0] | ![0] |      	|
+| Willian Justen Cursos | [![13]](https://www.youtube.com/c/WillianJustenCursos) | [![3]](https://www.linkedin.com/in/willianjusten/) | [![2]](https://willianjusten.com.br/) | [![2]](https://willianjusten.com.br/cursos) | ![16] ![31] ![39] ![41] ![85] ![86] ![87] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|      	|
 
 <br>
@@ -399,3 +400,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [83]: ./assets/yii3.svg "Yii"
 [84]: ./assets/nest.svg "Nest"
 [85]: ./assets/nextjs.svg "NextJS"
+[86]: ./assets/cypress.svg "Cypress"
+[87]: ./assets/gatsbyjs.svg "GatsbyJS"
