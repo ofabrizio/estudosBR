@@ -152,6 +152,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Jovem Programador | [![13]](https://www.youtube.com/c/JovemProgramadortv/) | ![0] | ![0] | ![0] | ![10] ![11] ![39] | ![0]	| ![0] |
 | João Ribeiro | [![13]](https://www.youtube.com/c/JLDRPT/) | ![0] | ![0] |![0]| ![10] ![15] ![16] ![18] ![25] ![26] ![28] ![30] ![39] ![46] ![47] ![52] ![54] | ![0] |![0]|
 | Jorge Aluizio | [![13]](https://www.youtube.com/c/JorgeAluizio/) | [![3]](https://www.linkedin.com/in/jorgealuizio/) | [![2]](https://www.aluiziodeveloper.com.br/) | [![2]](https://www.aluiziodeveloper.com.br/cursos) | ![10] ![11] ![16] ![20] ![39] ![40] ![66] <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="15px"> <img src="https://brandeps.com/icon-download/N/Nextjs-icon-vector-01.svg" width="25px"> | ![0] | ![0] |      	|
+| João Paulo S. Araujo | [![13]](https://www.youtube.com/c/Jo%C3%A3oPauloSAraujo/) | [![3]](https://www.linkedin.com/in/jpprobr/) | [![2]](http://blog.jp.pro.br/) | ![0] | ![17] ![20] ![49] ![72] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
