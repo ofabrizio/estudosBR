@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
-
 # Intuito
 
 Este repo será construído para ajudar a divulgar nomes de autores brasileiros (ou pelo menos da língua portuguesa), independente do tamanho ou alcance do seu canal.
@@ -15,10 +13,10 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
  # Agradecimentos
 
  - Esta lista foi idealizada a partir de um post do [Leo Moraes](https://www.linkedin.com/feed/update/urn:li:activity:6896841236490133504/), onde ele trouxe vários autores, até então desconhecido por mim. 
- - O ícones deste repositório são dos sites
+ - Os ícones deste repositório são dos sites
    -  [Icon8](https://icons8.com/icon/set/logos/color)
    -  [Brandeps](https://brandeps.com/)
-# Indice
+# Índice
 
 <br>
 
@@ -70,7 +68,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | CodarMe | [![13]](https://www.youtube.com/c/CodarMe/) | [![3]](https://www.linkedin.com/company/codarme/) | [![2]](https://codar.me/) | [![2]](https://codar.me/) | ![10] ![11] ![20] ![26] ![39] ![40] <img src="https://brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" width="15px"> | ![0] | ![0] |
-| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/compcom/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] <img src="https://brandeps.com/icon-download/S/Svelte-icon-vector-02.svg" width="15px">| ![0] | ![0] |
+| Cod3r	| [![13]](https://www.youtube.com/c/COD3RCURSOS/videos)	| [![3]](https://www.linkedin.com/company/cod3r/) | [![2]](https://www.cod3r.com.br/)	| [![2]](https://www.cod3r.com.br/collections) | ![10] ![11] ![15] ![16] ![17] ![18] ![19] ![20] ![26] ![28] ![29] ![30] ![24] ![39] ![89] | ![0] | ![0] |
 | Clube Full-Stack | [![13]](https://www.youtube.com/c/AlexandreCardoso/) | ![0] | [![2]](https://alexandrecardoso.dev.br/) | [![2]](https://alexandrecardoso.dev.br/cursos/) | ![10] ![11] ![30] ![54] | ![0] | ![0] |
 | Cursos de programação | [![13]](https://www.youtube.com/c/CursoPrograma%C3%A7%C3%A3o/) | ![0] |![0] |  ![0]| ![10] ![16] ![18] ![19] ![26] ![27] ![28] ![29] ![30] ![34] ![46] ![50] ![55] ![56] ![24] | ![0] | ![0] |
 | CFBCursos | [![13]](https://www.youtube.com/c/cfbcursos/) | ![0] | [![2]](2)| ![0]| ![10] ![11] ![26] ![28] ![30] ![39] ![40] ![46] ![53] ![57] ![58] | ![0] | ![0] |
@@ -404,4 +402,5 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [86]: ./assets/cypress.svg "Cypress"
 [87]: ./assets/gatsbyjs.svg "GatsbyJS"
 [88]: ./assets/adonisjs.svg "AdonisJS"
+[89]: ./assets/svelte.svg "Svelte"
 
