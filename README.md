@@ -130,7 +130,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | Hashtag Programação | [![13]](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/) | ![0]| [![2]](https://www.hashtagtreinamentos.com/)| [![2]](https://www.hashtagtreinamentos.com/todos-os-cursos) | ![26] ![29] | ![0]| 07 a 10 de Março de 2022 [![2]](https://pages.hashtagtreinamentos.com/inscricao-intensivao-de-python-org) |      	|
-|      	|         	|          	|      	|            	|             	|        	|      	|
+| Henrique Bastos | [![13]](https://www.youtube.com/user/henriquebastosnet/) | [![3]](https://br.linkedin.com/in/henriquebastos) | [![2]](https://henriquebastos.net/) | [![2]](https://henriquebastos.net/produtos/) | ![26] ![76] ![82] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -392,3 +392,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [79]: ./assets/blazor.svg "Blazor"
 [80]: ./assets/designpattern.svg "Design Pattern"
 [81]: ./assets/TDD.svg "Test Driven Development"
+[82]: ./assets/django.svg "Django"
