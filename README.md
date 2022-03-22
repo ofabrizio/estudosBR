@@ -76,6 +76,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Code83 | [![13]](https://www.youtube.com/channel/UCsOFtSwuJuuX_kj8F30-nyQ/) | ![0] | ![0] | ![0] | ![11] ![16] ![39] | ![0] | ![0] | |
 | Canal da Cloud | [![13]](https://www.youtube.com/c/CanaldaCloud/) | [![3]](https://www.linkedin.com/in/canal-da-cloud/) | ![0] | ![0] | ![11] ![14] ![51] ![76] | ![0]| ![0]|  |
 | Cabra Dev | [![13]](https://www.youtube.com/c/dersonsena-cabradev/) | [![3]](https://www.linkedin.com/in/dersonsena/) | [![2]](https://cabra.dev/) | ![0] | ![30] ![77] ![81] ![83] | ![0] | ![0] |  |
+| Caminho do Código | [![13]](https://www.youtube.com/c/CaminhodoC%C3%B3digo/) | ![0] | ![0] | ![0] | ![10] ![30] ![46] | ![0] |![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
