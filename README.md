@@ -178,6 +178,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | LuizTools | [![13]](https://www.youtube.com/c/LuizTools) | [![3]](https://www.linkedin.com/in/luiztools) | [![2]](https://www.luiztools.com.br/) | [![2]](https://www.luiztools.com.br/meus-cursos/) | ![10] ![11] ![12] ![16] ![20] ![39] ![40] ![49] ![66] | [![2]](https://www.luiztools.com.br/meus-livros/) | ![0]|  |
 | Lucas Souza Dev | [![13]](https://www.youtube.com/c/LucasSouzaDev/) | ![0] | [![2]](https://www.odevtaligado.com/) | ![0] | ![11] ![16] ![39] | ![0] | ![0] |  |
 | leobritob | [![13]](https://www.youtube.com/c/leobritob/) | [![3]](https://www.linkedin.com/in/leobritob/) | [![2]](https://leonardobrito.com.br/instagram) | ![0] | ![16] ![39] ![84] | ![0] |![0] |  |
+| LINUXtips | [![13]](https://www.youtube.com/c/LinuxTips/) | [![3]](https://www.linkedin.com/company/linuxtips/) | [![2]](https://www.linuxtips.io/) | [![2]](https://www.linuxtips.io/pages/trilha-de-treinamentos) | ![20] ![22] ![70] ![91] | ![0] | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -406,3 +407,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [88]: ./assets/adonisjs.svg "AdonisJS"
 [89]: ./assets/svelte.svg "Svelte"
 [90]: ./assets/serverless.svg "Serverless"
+[91]: ./assets/cicd.svg "CI/CD"
