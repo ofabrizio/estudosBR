@@ -213,6 +213,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
 | One Bit Code | [![13]](https://www.youtube.com/c/OneBitCode/) | [![3]](https://www.linkedin.com/company/onebitcode/) | [![2]](https://beacons.page/onebitcode) |  [![2]](https://beacons.page/onebitcode) | ![10] ![11] ![16] ![29] ![39] | [![2]](https://programadornomade.onebitcode.com/) | ![0]|      	|
 | Overstack | [![13]](https://www.youtube.com/c/Overstack_oficial/) | [![3]](https://www.linkedin.com/company/overstack/) | [![2]](https://www.overstack.com.br/) | [![2]](https://www.overstack.com.br/)  | ![10] ![11] ![39] ![40] ![49]  ![85]| ![0] | ![0]|  |
+| Origamid | [![13]](https://www.youtube.com/c/Origamid/) | [![3]](https://www.linkedin.com/school/origamid/) | [![2]](https://www.origamid.com/) | [![2]](https://www.origamid.com/planos/) | ![10] ![15] ![33] ![35] ![39] ![46] ![92] | [![2]](https://www.origamid.com/books/tipografia-para-web/) | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -410,3 +411,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [89]: ./assets/svelte.svg "Svelte"
 [90]: ./assets/serverless.svg "Serverless"
 [91]: ./assets/cicd.svg "CI/CD"
+[92]: ./assets/uiux.svg "UI/UX"
