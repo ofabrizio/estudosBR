@@ -311,7 +311,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 ## Y
 | Nome 	| Youtube 	| Linkedin 	| Site 	| Tem curso pago? 	| Tecnologias 	| Livros 	| Semana de Bootcamp? |  [Topo](#indice)
 |------	|:-------:	|:--------:	|:----:	|:----------:	|:-----------:	|:------:	|:-----:	| :-----:	| 
-|      	|         	|          	|      	|            	|             	|        	|      	|      	|
+| Yuri Marcon | [![13]](https://www.youtube.com/c/YuriMarcon/) | ![0] | ![0] | ![0] | ![11] ![15] | ![0]| ![0] |      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
