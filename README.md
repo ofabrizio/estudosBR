@@ -92,6 +92,7 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 | Developer Thing's | [![13]](https://www.youtube.com/c/CoisadeDevOficial/) | ![0] | ![0] | ![0]| ![11] ![26] ![29] | ![0] | ![0] |  |
 | DB Cloud | [![13]](https://www.youtube.com/c/DBCloudTreinamentos/) | [![3]](https://www.linkedin.com/company/dbcloudtreinamentos/) | ![0] | ![0] | ![12] ![43] ![44] ![70] | ![0] | ![0] |  |
 | desenvolvedor.io | [![13]](https://www.youtube.com/c/desenvolvedorio/) | [![3]](https://www.linkedin.com/company/desenvolvedor-io/) | [![2]](https://desenvolvedor.io/) | [![2]](https://desenvolvedor.io/cursos) | ![71] ![72] ![73] ![74] ![70] | ![0] | ![0] |  |
+| dogcode | [![13]](https://www.youtube.com/c/dogcodedev/) | ![0] | [![2]](https://dogcode.dev/) | [![2]](https://dogcode.dev/longcycledeveloper) | ![10] ![11] ![16] ![31] ![39] ![40] ![76] ![85] ![90] | ![0]  | ![0] |  |
 |      	|         	|          	|      	|            	|             	|        	|      	|
 
 <br>
@@ -403,4 +404,4 @@ Se tiver interesse em contribuir, peço que verifique se o canal que está recom
 [87]: ./assets/gatsbyjs.svg "GatsbyJS"
 [88]: ./assets/adonisjs.svg "AdonisJS"
 [89]: ./assets/svelte.svg "Svelte"
-
+[90]: ./assets/serverless.svg "Serverless"
